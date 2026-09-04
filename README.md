@@ -48,7 +48,24 @@ Dashboard Features
 Spending is also analyzed by account:
  * Checking: $49k
  * Platinum Card: $9k
- * Sliver Card: $5k 
+ * Sliver Card: $5k
+
+Tools & Technologies
+========================================================================================================================================================
+* Power Bi Desktop
+* Data Visualization
+* Dashboard Design
+* Data Analysis
+* Financial Analytics
+* Interactive charts & KPTs
+
+Key Insights
+========================================================================================================================================================
+* The The dashboard reports a 49.27% savings rate.
+* Mortgage & Rent ($25K) is the largest spending category.
+* Home Improvement ($19K) is the second-largest category.
+* February has the highest displayed monthly spending at $17.0K.
+* The Checking account has the highest displayed account spending at $49K.
 
 
 
